@@ -303,6 +303,16 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
+.services .serv-content .card .box a{
+    color: #fff;
+
+}
+
+.icon{
+    width: 42px;
+    height: 42px;
+}
+
 /* skills section styling */
 
 .skills .title::after{
