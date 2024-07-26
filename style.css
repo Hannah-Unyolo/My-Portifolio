@@ -168,6 +168,7 @@ section .title::after{
     background: url("Images/profile1.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
+    opacity:  1;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
